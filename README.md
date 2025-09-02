@@ -1,2 +1,0 @@
-# Mille-feuille-frontend
-チャレキャラ
